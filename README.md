@@ -1,6 +1,6 @@
 # Frontend Mentor - Stats preview card component
 
-![Design  Stats preview card component coding challenge](./design/desktop-preview.jpg)
+![Design  Stats preview card component coding challenge](https://raw.githubusercontent.com/nurularifin83/stats-preview-card-component/main/SS.png)
 
 This is a solution to the [Stats preview card component](https://www.frontendmentor.io/solutions/responsive-stats-preview-card-component-with-bootstrap-8KxICG0TTb). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
