@@ -10,6 +10,7 @@
 }
 
 html, body {
+    background-color: var(--dark-blue);
     font-size: 15px;
     font-family: 'Lexend Deca', sans-serif;
 }
@@ -29,7 +30,7 @@ img {
 
 a {
     text-decoration: none;
-    color: #000000;
+    color: var(--white);
 }
 
 .img-two {
@@ -70,6 +71,10 @@ a {
     font-family: 'Inter', sans-serif;
 }
 
+.footer {
+    color: var(--white);
+}
+
 /*For mobile view*/
 
 @media screen and (max-width: 600px) {
@@ -85,6 +90,10 @@ a {
         text-align: center;
     }
 
+    img {
+        border-radius: 10px 10px 0 0;
+    }
+    
     .d-categories { 
         width: 100%;
         flex-direction: column;
@@ -99,4 +108,5 @@ a {
     .d-categories-one,.d-categories-two {
         padding-bottom: 25px;
     }
+
   }
