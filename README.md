@@ -1,8 +1,8 @@
 # Frontend Mentor - Stats preview card component
 
-![Design preview for the Stats preview card component coding challenge](./design/desktop-preview.jpg)
+![Design  Stats preview card component coding challenge](./design/desktop-preview.jpg)
 
-This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/solutions/reponsive-3-column-preview-card-component-built-with-bootstrap-wQrp3GRBVL). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Stats preview card component](https://www.frontendmentor.io/solutions/responsive-stats-preview-card-component-with-bootstrap-8KxICG0TTb). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/reponsive-3-column-preview-card-component-built-with-bootstrap-wQrp3GRBVL)
-- Live Site URL: [Live site URL here](https://nurularifin83.github.io/column-preview-card/)
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/responsive-stats-preview-card-component-with-bootstrap-8KxICG0TTb)
+- Live Site URL: [Live site URL here](https://nurularifin83.github.io/stats-preview-card-component/)
 
 ## My process
 
